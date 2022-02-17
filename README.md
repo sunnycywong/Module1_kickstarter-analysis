@@ -5,7 +5,7 @@ Performing analysis on Kickstarter data to uncover trends
 Provide Louise how different campaigns fared in relation to their launch dates and their funding goals, as a reference for Louise to coming the fundraising goal for her play, Fever. 
 
 ## (2) Analysis and Challenges
-<u> Theater Outcomes Based on Launch Date <u> 
+<ins> Theater Outcomes Based on Launch Date <ins>
  
 Theater Outcomes Based on Launch Date chart demonstrated May to July were the positive period with a higher successful rate. As it moved toward the end of the year, the level of successful got decreased. 
 
