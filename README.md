@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends
+Performing analysis on Kickstarter data to uncover trends.
 
 ## (1) Overview of Project
 Provide Louise how different campaigns fared in relation to their launch dates and their funding goals, as a reference for Louise to coming the fundraising goal for her play, Fever. 
