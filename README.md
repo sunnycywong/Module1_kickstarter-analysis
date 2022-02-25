@@ -5,13 +5,13 @@ Performing analysis on Kickstarter data to uncover trends.
 Provide Louise how different campaigns fared in relation to their launch dates and their funding goals, as a reference for Louise to coming the fundraising goal for her play, Fever. 
 
 ## (2) Analysis and Challenges
-<ins> *Theater Outcomes Based on Launch Date* <ins>
+### <ins> *Theater Outcomes Based on Launch Date* <ins>
  
 Theater Outcomes Based on Launch Date chart demonstrated May to July were the positive period with a higher successful rate. As it moved toward the end of the year, the level of successful got decreased. 
 
 ![image](https://github.com/sunnycywong/Module1_kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png) 
 
-<ins> *Outcomes Based on Goal chart* <ins>
+### <ins> *Outcomes Based on Goal chart* <ins>
  
 The Outcomes Based on Goal chart shows the successful and failed rates of the play events throughout the year is in parallel of each other’s opposite direction. From an outcome standpoint, they break even with each other. 
  
@@ -19,7 +19,7 @@ However, based on the successful rate, seems like goals that were less than $1,0
 
 ![image](https://github.com/sunnycywong/Module1_kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
-<ins> *Challenges* <ins> 
+### <ins> *Challenges* <ins> 
  
 The two above charts are not enough to provide the right level of details to Louise. As these charts are not referring exactly the same level of data. The Theater Outcomes Based on Launch Date chart is only focusing on theatre events, whereas, the Outcomes Based on Goal chart was looking on the play events, which “play” is a subcategory of the theatre events. 
  
